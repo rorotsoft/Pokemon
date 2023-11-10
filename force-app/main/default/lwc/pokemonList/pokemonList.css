@@ -1,0 +1,49 @@
+/* pokemonList.css */
+:host {
+    display: block;
+}
+
+.slds-card__body_inner {
+    padding: 1rem;
+}
+
+.search-and-filter {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.slds-var-m-bottom_small {
+    margin-bottom: 1rem;
+}
+
+.contador {
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.texto_error {
+    color: red;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.lightning-layout {
+    margin-bottom: 1rem;
+}
+
+.lightning-layout-item {
+    padding: 0.5rem;
+}
+
+.lightning-input {
+    width: 100%;
+}
+
+.lightning-combobox {
+    width: 100%;
+}
+
+
